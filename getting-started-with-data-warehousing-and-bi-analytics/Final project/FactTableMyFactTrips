@@ -1,0 +1,5 @@
+trip_id,
+tons_of_wast_collected,
+date_id,
+waste_type_id,
+collection_zone_id
