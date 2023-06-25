@@ -1,0 +1,3 @@
+item_id VARCHAR,
+item_name VARCHAR,
+item_price DOUBLE(2)

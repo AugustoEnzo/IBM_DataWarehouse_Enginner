@@ -1,0 +1,6 @@
+date DATE,
+year INT,
+month_number INT,
+month_name VARCHAR,
+day_of_month VARCHAR,
+day_of_week VARCHAR
