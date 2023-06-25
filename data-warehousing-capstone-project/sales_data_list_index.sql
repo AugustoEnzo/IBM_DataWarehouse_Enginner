@@ -1,0 +1,1 @@
+SHOW INDEX FROM sales_data
